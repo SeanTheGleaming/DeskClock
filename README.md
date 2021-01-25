@@ -6,7 +6,7 @@ This was originally a personal project, made open source on realising how custom
 
 To build, open cmd in the directory of the source code and type the following:
 
-pyinstaller --onefile --noconsole main.py
+python creator.py build
 
 Made by Sean A. Robinson
 Enjoy!
